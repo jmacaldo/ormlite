@@ -3,7 +3,7 @@ ORM middleware for Sequelize
 
 This app outputs at the terminal - no time to make front-end! ```¯\_(ツ)_/¯```
 
-* Loading this page automatically triggers ```getAll()``` function.
+* Loading main page automatically triggers ```getAll()``` function.
 
 * Test ```findById()``` function by passing an id number as a URL query. Example: http://localhost:3000/id/3
 
