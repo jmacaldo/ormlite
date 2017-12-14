@@ -1,5 +1,5 @@
 # ormlite
-ORM middleware for Sequelize
+ORM middleware for Sequelize :fire:
 
 This app outputs to the terminal - no time to make front-end! ```¯\_(ツ)_/¯```
 
