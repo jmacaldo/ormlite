@@ -1,7 +1,7 @@
 # ormlite
 ORM middleware for Sequelize
 
-This app outputs at the terminal - no time to make front-end! ```¯\_(ツ)_/¯```
+This app outputs to the terminal - no time to make front-end! ```¯\_(ツ)_/¯```
 
 * Loading main page automatically triggers ```getAll()``` function.
 
